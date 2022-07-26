@@ -1,2 +1,3 @@
  i am from git
 fvfdb fg bfg bfg
+checking git fetch cpmmand
